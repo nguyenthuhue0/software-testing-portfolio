@@ -7,7 +7,7 @@
 | Document | Test Summary Report |
 | Project | Real Estate Prediction System |
 | Version | 1.0 |
-| Tester | Huệ Nguyễn Thu |
+| Tester | Nguyen Thu Hue |
 | Test Type | Manual Functional Testing |
 | Methodology | Agile Scrum |
 | Test Period | July 2026 |
